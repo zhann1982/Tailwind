@@ -1,2 +1,2 @@
-# shoppinglist
-electron js app
+# Tailwind tutorial
+from installation to full webpage
